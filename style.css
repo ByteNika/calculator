@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(img/Free-Google-Slides-Math-Background.jpg);
+   /* background-image: url(img/Free-Google-Slides-Math-Background.jpg); */
 }
 .calculator{
     border: 10px solid #ffffff;
